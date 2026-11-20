@@ -2,7 +2,7 @@
 
 <img src="assets/LastWave_banner_v2_1440p.png" alt="LastWave Banner" width="100%" style="border-radius: 16px;" />
 
-<h1>LastWave</h1>
+<h1>CRAZE</h1>
 
 **Simple Android YouTube Music client with Material UI, Liquid Glass, Bit-Perfect playback, Automix, Lossless addons & advanced audiophile features.**
 
